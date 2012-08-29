@@ -9,4 +9,4 @@ Requirements
 ## Platform:
 
 * Debian/Ubuntu
-* RHEL/CentOS/Fedora (not tested)
+* RHEL/CentOS/Fedora
