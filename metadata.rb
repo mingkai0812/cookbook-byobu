@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 maintainer        "Karel Ledru-Mathé"
 maintainer_email  "karel@ledrumathe.com"
 license           "DWTFYWT License"
