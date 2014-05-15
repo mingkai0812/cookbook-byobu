@@ -1,5 +1,6 @@
 # encoding: utf-8
 
+name              "byobu"
 maintainer        "Karel Ledru-Mathé"
 maintainer_email  "karel@ledrumathe.com"
 license           "DWTFYWT License"
